@@ -1,5 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Staok&show_icons=true&hide_title=true&include_all_commits=true&locale=cn&theme=tokyonight
-" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Staok&show_icons=true&hide_title=true&include_all_commits=true&locale=cn&theme=tokyonight" />
 
 
 ### Hello✨ <img src="https://komarev.com/ghpvc/?username=Staok&label=Visits" alt="Staok" />
@@ -10,4 +9,4 @@
 - 📫 找到我 [博客网页](https://staok.gitee.io/)——[知乎（zhihu）](https://www.zhihu.com/people/xuhaoyang)——[哔哩哔哩（bilibili）](https://space.bilibili.com/6767516)。
 - 🌱 十年饮冰凛冬袭，难凉热血瞰百易。
 
-![](https://github.githubassets.com/images/mona-loading-dark.gif)
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" style="zoom:25%;" />
