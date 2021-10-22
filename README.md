@@ -10,3 +10,4 @@
 - 📫 找到我 [博客网页](https://staok.gitee.io/)——[知乎（zhihu）](https://www.zhihu.com/people/xuhaoyang)——[哔哩哔哩（bilibili）](https://space.bilibili.com/6767516)。
 - 🌱 十年饮冰凛冬袭，难凉热血瞰百易。
 
+![](https://github.githubassets.com/images/mona-loading-dark.gif)
