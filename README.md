@@ -11,6 +11,6 @@
 - 🖋 发表的文章均遵循 CC BY-NC-SA 4.0 协议，有的文章中图片显示不正常，则下载下来看即可。
 - 📫 找到我 [博客网页](https://staok.gitee.io/)——[知乎（zhihu）](https://www.zhihu.com/people/xuhaoyang)——[哔哩哔哩（bilibili）](https://space.bilibili.com/6767516)。
 
-<p align="center" style="zoom:25%">
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+<p align="center" >
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100px"/>
 </p>
