@@ -12,9 +12,13 @@
 - 📫 找到我 [小站（个人网页）](https://staok.gitee.io/)——[知乎（zhihu）](https://www.zhihu.com/people/xuhaoyang)——[哔哩哔哩（bilibili）](https://space.bilibili.com/6767516)——[CSDN](https://blog.csdn.net/Staokgo)。
 
 <p align="center" >
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100px"/><img src="https://snakegithub.pages.dev/github-contribution-grid-snake.svg" />
+    <table border="0">
+        <tr>
+        <td> <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100px"/> </td>
+        <td> <img src="https://snakegithub.pages.dev/github-contribution-grid-snake.svg" /> </td>
+        </tr>
+    </table>
 </p>
-
 
 来围观一下这个人 年更/等有缘大佬一同建设 的有趣项目吧：
 
