@@ -14,8 +14,8 @@
 <p align="center" >
     <table border="0">
         <tr>
-        <td> <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="100px" /> </td>
         <td> <img src="https://snakegithub.pages.dev/github-contribution-grid-snake.svg" /> </td>
+        <td> <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100px"/> </td>
         </tr>
     </table>
 </p>
@@ -40,5 +40,5 @@
 - [Staok/HDL-FPGA-study-and-norms: HDL & FPGA 学习和规范。CC-BY-NC-SA 4.0。 (github.com)](https://github.com/Staok/HDL-FPGA-study-and-norms)。
 
 <p align="center" >
-    <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100px"/>
+    <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="450px" />
 </p>
