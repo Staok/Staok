@@ -14,7 +14,7 @@
 <p align="center" >
     <table border="0">
         <tr>
-        <td> <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100px"/> </td>
+        <td> <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"  /> </td>
         <td> <img src="https://snakegithub.pages.dev/github-contribution-grid-snake.svg" /> </td>
         </tr>
     </table>
@@ -38,3 +38,7 @@
 - [Staok/coding-style-and-more: C 编写规范和其他。永远地不定期更新。CC-BY-NC-SA 4.0。 (github.com)](https://github.com/Staok/coding-style-and-more)。
 - [Staok/thoughs-about-hardware-design: 介绍和罗列关于硬件设计所需要考虑的各个方面。纯个人经验总结，非科班念经。永远地不定期更新。CC-BY-NC-SA 4.0。 (github.com)](https://github.com/Staok/thoughs-about-hardware-design)。
 - [Staok/HDL-FPGA-study-and-norms: HDL & FPGA 学习和规范。CC-BY-NC-SA 4.0。 (github.com)](https://github.com/Staok/HDL-FPGA-study-and-norms)。
+
+<p align="center" >
+    <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100px"/>
+</p>
