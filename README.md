@@ -27,8 +27,6 @@
 - [Staok/u-iap: 一个志在实现适用于 MCU 的通用 IAP 程序框架，可以从串口、外部 SPI FLASH、外部 SDIO SD 卡、USB Device MSC 或者 USB HOST MSC等等途径更新 MCU 固件。（只是记录想法，有缘再建设） (github.com)](https://github.com/Staok/u-iap)。
 - [Staok/Dual-Screen-Stereoscopic: 双屏动态裸眼立体效果展示器（只是记录想法，有缘再建设） (github.com)](https://github.com/Staok/Dual-Screen-Stereoscopic)。
 - [Staok/Mini-DSO-WaveGen-in-one: @老刘爱捣鼓 的 "STC8A示波器" 和 "STC15波形发生器" 二合一/重新画板 项目（只是记录想法，有缘再建设） (github.com)](https://github.com/Staok/Mini-DSO-WaveGen-in-one)。
-- [Staok/IO-Extender: 四线串行、廉价的IO扩展器（只是记录想法，有缘再建设） (github.com)](https://github.com/Staok/IO-Extender)。
-- [Staok/tiny-sensor-node: tiny sensor node within 1cm³（只是记录想法，有缘再建设） (github.com)](https://github.com/Staok/tiny-sensor-node)。
 - [Staok/iUPS-12V: 12V输出的不间断电源，大功率/真稳压/真电池管理。（只是记录想法，有缘再建设） (github.com)](https://github.com/Staok/iUPS-12V)。
 - [Staok/iBLDC: 月更或者年更。志在做一个纯粹的、包含软硬件的、功率涵盖从小到大的 方案，查阅 n^2 的各方资料，对 BLDC&PMSM 进行一个大综合、大整理，查阅、比较和整理 大量的 网络教程、大厂手册、开源解决方案，在这里形成 原理和解决方案 的打通式介绍。 (github.com)](https://github.com/Staok/iBLDC)。说好年更，不鸽的~
 
