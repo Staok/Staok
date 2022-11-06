@@ -20,7 +20,7 @@
     </table>
 </p>
 
-来围观一下这个人 年更/等有缘大佬一同建设 的有趣项目吧：
+来围观一下 年更/等有缘大佬一同建设 的有趣项目吧：
 
 *p.s 即目前只记录点子和计划，碍于个人时间，只得有缘再实施的项目，若想参与可留 issue。*
 
@@ -30,7 +30,7 @@
 - [Staok/iUPS-12V: 12V输出的不间断电源，大功率/真稳压/真电池管理。（只是记录想法，有缘再建设） (github.com)](https://github.com/Staok/iUPS-12V)。
 - [Staok/iBLDC: 月更或者年更。志在做一个纯粹的、包含软硬件的、功率涵盖从小到大的 方案，查阅 n^2 的各方资料，对 BLDC&PMSM 进行一个大综合、大整理，查阅、比较和整理 大量的 网络教程、大厂手册、开源解决方案，在这里形成 原理和解决方案 的打通式介绍。 (github.com)](https://github.com/Staok/iBLDC)。说好年更，不鸽的~
 
-这个人号称 没有终稿/更的很勤 的项目：
+号称 没有终稿/更的很勤 的项目：
 
 - [Staok/ARM-Linux-Study: ARM Linux 的学习历程，文章遵守 CC BY NC SA 4.0 协议。 (github.com)](https://github.com/Staok/ARM-Linux-Study)。
 - [Staok/coding-style-and-more: C 编写规范和其他。永远地不定期更新。CC-BY-NC-SA 4.0。 (github.com)](https://github.com/Staok/coding-style-and-more)。
