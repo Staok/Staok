@@ -41,3 +41,5 @@
 <p align="center" >
     <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="450px" />
 </p>
+
+记录一个 打造 README 的综合帖 [如何打造一个优雅的个人GitHub主页？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/593714446)。
