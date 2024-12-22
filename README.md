@@ -19,7 +19,7 @@
     </table>
 </p>
 <p align="center"> 💖 让杂乱的都清晰再现，让 "高科技" 的归于寻常百姓家</p>
-<p align="center"> To turn confusion into clarity, and bring the wonders of 'high-tech' into the hands of the common folk.</p>
+<p align="center"> To turn confusion into clarity, and bring the wonders of "high-tech" into the hands of folks.</p>
 
 规范/存档备查/没有终稿 的项目：
 
